@@ -9,7 +9,7 @@
   <h3 align="center">A student of R.B.N.B College at Shrirampur...!</h3>
 
   <div align="left">
-    <img width="400" align="right"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding GIF">
+    <img width="500" align="right"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding GIF">
   </div>
 
   <div align="right">
